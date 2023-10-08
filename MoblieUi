@@ -1,7 +1,7 @@
 
 local library = {
 	Version = "V.1",
-	WorkspaceName = "Mura Hub Premium Script",
+	WorkspaceName = "Dream x Hub Premium Script",
 	flags = {},
 	signals = {},
 	objects = {},
@@ -16,7 +16,7 @@ local library = {
 		easingDirection = Enum.EasingDirection.Out
 	},
 	colors = {
-		main = Color3.fromRGB(255, 0, 0),
+		main = Color3.fromRGB(0, 38, 255),
 		background = Color3.fromRGB(40, 40, 40),
 		outerBorder = Color3.fromRGB(15, 15, 15),
 		innerBorder = Color3.fromRGB(73, 63, 73),
