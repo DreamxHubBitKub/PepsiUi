@@ -1,6 +1,6 @@
 
 local library = {
-	Version = "-",
+	Version = "1.0",
 	WorkspaceName = "Dream x Hub Premium Script",
 	flags = {},
 	signals = {},
