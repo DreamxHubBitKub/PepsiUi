@@ -1,7 +1,7 @@
 
 local library = {
 	Version = "1.0",
-	WorkspaceName = "Dream x Hub Premium Script",
+	WorkspaceName = "Miko Hub Premium Script",
 	flags = {},
 	signals = {},
 	objects = {},
